@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=newnormal21&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=newnormal21&color=dark)](https://github.com/eungyeole/velog-readme-stats) ->
