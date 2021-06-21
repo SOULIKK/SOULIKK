@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=457CCC&height=200&section=header&text=MinseongKim%20&fontSize=90&animation=fadeIn&FontColor=#FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=EBEBEB&height=200&section=header&text=MinseongKim%20&fontSize=90&animation=fadeIn&FontColor=#457CCC)
 
 <br>
 
