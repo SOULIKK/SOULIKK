@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=457CCC&height=200&section=header&text=Min-Seong Kim%20&fontSize=90&animation=fadeIn&FontColor=#FFFFFF)
 
 <br>
 
