@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **SOULIKK/SOULIKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=457CCC&height=200&section=header&text=Min-Seong Kim%20&fontSize=90&animation=fadeIn&FontColor=#FFFFFF)
+
+<br>
+
 
 [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@newnormal21)](https://velog.io/@newnormal21)
 
