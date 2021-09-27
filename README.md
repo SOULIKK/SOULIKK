@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=newnormal21&color=dark)](https://github.com/eungyeole/velog-readme-stats) ->
 
 
-![SOULIKK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOULIKK&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOULIKK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
