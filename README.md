@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=EBEBEB&height=200&section=header&text=MinseongKim%20&fontSize=90&animation=fadeIn&FontColor=#457CCC)
 
 <br>
+-->
 
 [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@newnormal21)](https://velog.io/@newnormal21)
 
